@@ -1,6 +1,6 @@
 ## 👩🏻‍💻 leetcode-journal
 
-### *<sub>🚀 just-lc-yur1n9</sub>*
+### *<sub>🚀&nbsp;just-lc-yur1n9</sub>*
 
 <br>
 
