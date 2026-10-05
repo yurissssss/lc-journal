@@ -1,22 +1,20 @@
-## 👩🏻‍💻 leetcode-journal
-
-### *<sub>🚀&nbsp;just-lc-yur1n9</sub>*
-
+## 👩🏻‍💻 Leetcode-journal
+### *<sub>🚀&nbsp;`yur1n9@kakao.com`</sub>*
 <br>
 
-> My personal journey solving LeetCode problems, powered by [LeetHub](https://github.com/QasimWani/LeetHub)
+알고리즘과 SQL 문제 풀이를 기록하는 저장소입니다.
+
+리트코드에서 풀이한 문제를 기록합니다.
 
 ---
 
 ### 📌 About This Repo
-
-* 문제 출처: [LeetCode](https://leetcode.com/)
-* 자동 업로드 도구: [LeetHub](https://github.com/QasimWani/LeetHub)
-* 언어: `Java`, `Python`
-* 목적: 꾸준한 알고리즘 공부와 면접 대비를 위한 나만의 풀이 저장소
+- 문제 출처: [LeetCode](https://leetcode.com/)
+- 언어: `Java` `SQL`
+- 자동 업로드 도구: [LeetHub](https://github.com/QasimWani/LeetHub)
+- 목적: 알고리즘 및 SQL 문제 풀이 기록
 
 ---
 
-### ✨ My Stats
-
+### ✨ Backjoon Stats
 [![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=yur1n9\&theme=dark)](https://leetcode.com/yur1n9)
